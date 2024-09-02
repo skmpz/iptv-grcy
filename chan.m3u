@@ -9,9 +9,7 @@ http://d1nfykbwa3n98t.cloudfront.net/out/v1/6e5667da5a6843899a337dea72adb61b/ant
 https://cdn1.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8
 #EXTINF:-1 tvg-id="MakedoniaTV.gr",GR - Makedonia TV
 http://dlm34ll53zqql.cloudfront.net/out/v1/d4177931deff4c7ba994b8126d153d9f/maktv.m3u8
-#EXTINF:-1 tvg-id="",MEGA TV (720p) [Geo-blocked]
-https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
-#EXTINF:-1 tvg-id="SkaiTV.gr",Skai TV
+#EXTINF:-1 tvg-id="SkaiTV.gr",GR - Skai
 http://skai-live.siliconweb.com/media/cambria4/index.m3u8
 #EXTINF:-1 tvg-id="RIK1.cy",CY - RIK1
 http://l6.cloudskep.com/rikct/rik1/playlist.m3u8
