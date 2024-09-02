@@ -11,7 +11,7 @@ https://cdn1.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8
 http://dlm34ll53zqql.cloudfront.net/out/v1/d4177931deff4c7ba994b8126d153d9f/maktv.m3u8
 #EXTINF:-1 tvg-id="SkaiTV.gr",GR - Skai
 http://skai-live.siliconweb.com/media/cambria4/index.m3u8
-#EXTINF:-1 tvg-id="StarTV.gr",GR - Star
+#EXTINF:-1 tvg-id="StarTV.gr",GR - Star [Not 24/7]
 http://livestar.siliconweb.com/media/star4/star4.m3u8
 #EXTINF:-1 tvg-id="RIK1.cy",CY - RIK1
 http://l6.cloudskep.com/rikct/rik1/playlist.m3u8
