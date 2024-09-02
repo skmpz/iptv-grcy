@@ -3,3 +3,7 @@
 http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
 #EXTINF:-1 tvg-id="RIK1.cy",RIK 1
 http://l6.cloudskep.com/rikct/rik1/playlist.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1969582,RESOLUTION=896x504,CODECS="avc1.64001f,mp4a.40.2"
+http://am8.cloudskep.com/rikct/rik1/nimble-absolute-url-chunks.m3u8?nimblesessionid=650196&nimbleabsoluteurl=XDMhBpYjxDyzlBSWa0AUYSAXkB77gQ69zodSj%2FBgMP1VLXpPYaS6rJK0kjEda2vcKi5E4hdBy6YDSftmgqJHPn4wSsaLMGX9FcpMiCYhN8sNpxL7tgo%2FgjcI9rGjvmZU&nimbleurlhash=z4b+SIT9w6s2HSS2I%2FnzIQ==&nimbleurliv=C7KzWembU5OXkI+2lsv+OA==
+#EXT-X-STREAM-INF:BANDWIDTH=689678,RESOLUTION=512x288,CODECS="avc1.42c015,mp4a.40.2"
+http://am8.cloudskep.com/rikct/rik1/nimble-absolute-url-chunks.m3u8?nimblesessionid=650196&nimbleabsoluteurl=ffdpqCeawHg2jD1jp30bEG51wt+GFJFEnWmH3GOK7R506gY%2FJsjDF9GtXlzXcRU9iQdYkfZbGDTkKRTD19sfyiSxAU0I6wvSIClVFGH8MDqrWKPyYOanuS6H8F26dxP6&nimbleurlhash=gIIk6yY++q1iPK4CAPq8Kg==&nimbleurliv=ggiSnRvnHithbQBX5+tJ0g==
