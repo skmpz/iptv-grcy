@@ -1,21 +1,23 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Action24.gr",Action 24 (1080p)
+#EXTINF:-1 tvg-id="Action24.gr",GR - Action 24
 http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
-#EXTINF:-1 tvg-id="AlphaTV.gr",Alpha TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="AlphaTV.gr",GR - Alpha TV
 http://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-id="ANT1.gr",ANT1 (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="ANT1.gr",GR - ANT1
 http://d1nfykbwa3n98t.cloudfront.net/out/v1/6e5667da5a6843899a337dea72adb61b/antenna.m3u8
-#EXTINF:-1 tvg-id="BlueSkyTV.gr",Blue Sky TV (576p)
+#EXTINF:-1 tvg-id="BlueSkyTV.gr",GR - Blue Sky
 https://cdn1.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8
-#EXTINF:-1 tvg-id="MakedoniaTV.gr",Makedonia TV (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="MakedoniaTV.gr",GR - Makedonia TV
 http://dlm34ll53zqql.cloudfront.net/out/v1/d4177931deff4c7ba994b8126d153d9f/maktv.m3u8
 #EXTINF:-1 tvg-id="",MEGA TV (720p) [Geo-blocked]
 https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
 #EXTINF:-1 tvg-id="SkaiTV.gr",Skai TV
 http://skai-live.siliconweb.com/media/cambria4/index.m3u8
-#EXTINF:-1 tvg-id="RIK1.cy",RIK1
+#EXTINF:-1 tvg-id="RIK1.cy",CY - RIK1
 http://l6.cloudskep.com/rikct/rik1/playlist.m3u8
-#EXTINF:-1 tvg-id="RIK2.cy",RIK2
+#EXTINF:-1 tvg-id="RIK2.cy",CY - RIK2
 http://l6.cloudskep.com/rikct/rik2/playlist.m3u8
-#EXTINF:-1 tvg-id="ANT1Cyprus.cy",ANT1 Cyprus
+#EXTINF:-1 tvg-id="ANT1Cyprus.cy",CY - ANT1
 http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
+#EXTINF:-1 tvg-id="OmegaChannel.cy",CY - Omega Channel
+http://l1.cloudskep.com/tst/omcy/playlist.m3u8
