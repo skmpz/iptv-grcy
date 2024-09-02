@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="4E.gr",4E (720p)
-http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Action24.gr",Action 24 (1080p)
 http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
 #EXTINF:-1 tvg-id="AlphaTV.gr",Alpha TV (720p) [Not 24/7]
