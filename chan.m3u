@@ -11,13 +11,15 @@ https://cdn1.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8
 http://dlm34ll53zqql.cloudfront.net/out/v1/d4177931deff4c7ba994b8126d153d9f/maktv.m3u8
 #EXTINF:-1 tvg-id="SkaiTV.gr",GR - Skai
 http://skai-live.siliconweb.com/media/cambria4/index.m3u8
+#EXTINF:-1 tvg-id="StarTV.gr",GR - Star
+http://livestar.siliconweb.com/media/star4/star4.m3u8
 #EXTINF:-1 tvg-id="RIK1.cy",CY - RIK1
 http://l6.cloudskep.com/rikct/rik1/playlist.m3u8
 #EXTINF:-1 tvg-id="RIK2.cy",CY - RIK2
 http://l6.cloudskep.com/rikct/rik2/playlist.m3u8
 #EXTINF:-1 tvg-id="ANT1Cyprus.cy",CY - ANT1
 http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
-#EXTINF:-1 tvg-id="OmegaChannel.cy",CY - Omega Channel
+#EXTINF:-1 tvg-id="OmegaChannel.cy",CY - Omega
 http://l1.cloudskep.com/tst/omcy/playlist.m3u8
 #EXTINF:-1 tvg-id="SigmaTV.cy",CY - Sigma
 https://sl2.sigmatv.com/hls/live.m3u8
